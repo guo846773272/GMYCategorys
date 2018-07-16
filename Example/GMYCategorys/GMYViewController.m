@@ -8,6 +8,9 @@
 
 #import "GMYViewController.h"
 
+#import "GMYCategorys-Prefix.pch"
+#import "UIView+Frame.h"
+
 @interface GMYViewController ()
 
 @end
@@ -17,7 +20,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    CGFloat x = self.view.x;
+    NSLog(@"%f", x);
 }
 
 - (void)didReceiveMemoryWarning
