@@ -1,0 +1,22 @@
+{
+  "name": "GMYCategorys",
+  "version": "0.1.0",
+  "summary": "A short description of GMYCategorys.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/846773272@qq.com/GMYCategorys",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "846773272@qq.com": "guomengyang@daojia.com"
+  },
+  "source": {
+    "git": "https://github.com/846773272@qq.com/GMYCategorys.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GMYCategorys/Classes/**/*"
+}

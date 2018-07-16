@@ -1,0 +1,6 @@
+framework module Pods_GMYCategorys_Tests {
+  umbrella header "Pods-GMYCategorys_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

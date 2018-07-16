@@ -1,0 +1,6 @@
+framework module GMYCategorys {
+  umbrella header "GMYCategorys-umbrella.h"
+
+  export *
+  module * { export * }
+}
